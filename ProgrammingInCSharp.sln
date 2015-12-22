@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateVSEvent", "Delegate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectInterfacesAndInheriatance", "ObjectInterfacesAndInheriatance\ObjectInterfacesAndInheriatance.csproj", "{E1B3B2D9-65D0-4090-9BFF-2C93505CC0D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{EFB67241-E26B-4537-92B6-B79FAB10C2BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E1B3B2D9-65D0-4090-9BFF-2C93505CC0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1B3B2D9-65D0-4090-9BFF-2C93505CC0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1B3B2D9-65D0-4090-9BFF-2C93505CC0D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB67241-E26B-4537-92B6-B79FAB10C2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB67241-E26B-4537-92B6-B79FAB10C2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB67241-E26B-4537-92B6-B79FAB10C2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB67241-E26B-4537-92B6-B79FAB10C2BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
