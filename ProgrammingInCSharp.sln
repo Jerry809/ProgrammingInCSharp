@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectInterfacesAndInheriat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{EFB67241-E26B-4537-92B6-B79FAB10C2BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammaticFlow", "ProgrammaticFlow\ProgrammaticFlow.csproj", "{CA2E837A-5F0D-402E-A143-C79CF9C1F375}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{EFB67241-E26B-4537-92B6-B79FAB10C2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFB67241-E26B-4537-92B6-B79FAB10C2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFB67241-E26B-4537-92B6-B79FAB10C2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2E837A-5F0D-402E-A143-C79CF9C1F375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2E837A-5F0D-402E-A143-C79CF9C1F375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2E837A-5F0D-402E-A143-C79CF9C1F375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2E837A-5F0D-402E-A143-C79CF9C1F375}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
