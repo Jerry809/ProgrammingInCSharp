@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammaticFlow", "ProgrammaticFlow\ProgrammaticFlow.csproj", "{CA2E837A-5F0D-402E-A143-C79CF9C1F375}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulationTypes", "ManipulationTypes\ManipulationTypes.csproj", "{11573E3A-595B-488D-9BD5-D2C80EEAF06B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CA2E837A-5F0D-402E-A143-C79CF9C1F375}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA2E837A-5F0D-402E-A143-C79CF9C1F375}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA2E837A-5F0D-402E-A143-C79CF9C1F375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11573E3A-595B-488D-9BD5-D2C80EEAF06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11573E3A-595B-488D-9BD5-D2C80EEAF06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11573E3A-595B-488D-9BD5-D2C80EEAF06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11573E3A-595B-488D-9BD5-D2C80EEAF06B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
