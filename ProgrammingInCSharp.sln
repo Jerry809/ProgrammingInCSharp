@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStrings", "Worki
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToGetTypedata", "HowToGetTypedata\HowToGetTypedata.csproj", "{B0405DDB-4834-4732-B8C5-F13F78C2C8E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionDemo", "ReflectionDemo\ReflectionDemo.csproj", "{8474CA37-6DF2-4B47-AEC3-392084DF072A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{B0405DDB-4834-4732-B8C5-F13F78C2C8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0405DDB-4834-4732-B8C5-F13F78C2C8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0405DDB-4834-4732-B8C5-F13F78C2C8E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8474CA37-6DF2-4B47-AEC3-392084DF072A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8474CA37-6DF2-4B47-AEC3-392084DF072A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8474CA37-6DF2-4B47-AEC3-392084DF072A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8474CA37-6DF2-4B47-AEC3-392084DF072A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
