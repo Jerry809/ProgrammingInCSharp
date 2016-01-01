@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToGetTypedata", "HowToGe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionDemo", "ReflectionDemo\ReflectionDemo.csproj", "{8474CA37-6DF2-4B47-AEC3-392084DF072A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposableObjects", "DisposableObjects\DisposableObjects.csproj", "{90736624-1AF7-45BC-A521-97FE5789B7EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{8474CA37-6DF2-4B47-AEC3-392084DF072A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8474CA37-6DF2-4B47-AEC3-392084DF072A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8474CA37-6DF2-4B47-AEC3-392084DF072A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90736624-1AF7-45BC-A521-97FE5789B7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90736624-1AF7-45BC-A521-97FE5789B7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90736624-1AF7-45BC-A521-97FE5789B7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90736624-1AF7-45BC-A521-97FE5789B7EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
