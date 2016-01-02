@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionDemo", "Reflectio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposableObjects", "DisposableObjects\DisposableObjects.csproj", "{90736624-1AF7-45BC-A521-97FE5789B7EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeakReferences", "WeakReferences\WeakReferences.csproj", "{96AF3AE0-E638-45C8-8228-0ACF5A605701}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{90736624-1AF7-45BC-A521-97FE5789B7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90736624-1AF7-45BC-A521-97FE5789B7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90736624-1AF7-45BC-A521-97FE5789B7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96AF3AE0-E638-45C8-8228-0ACF5A605701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AF3AE0-E638-45C8-8228-0ACF5A605701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AF3AE0-E638-45C8-8228-0ACF5A605701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AF3AE0-E638-45C8-8228-0ACF5A605701}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
