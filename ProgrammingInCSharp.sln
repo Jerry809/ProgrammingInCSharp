@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposableObjects", "Dispos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeakReferences", "WeakReferences\WeakReferences.csproj", "{96AF3AE0-E638-45C8-8228-0ACF5A605701}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeAndValueValidation", "TypeAndValueValidation\TypeAndValueValidation.csproj", "{AFD9D990-49F2-42A0-AAF4-F88B490E370C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{96AF3AE0-E638-45C8-8228-0ACF5A605701}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96AF3AE0-E638-45C8-8228-0ACF5A605701}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96AF3AE0-E638-45C8-8228-0ACF5A605701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD9D990-49F2-42A0-AAF4-F88B490E370C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD9D990-49F2-42A0-AAF4-F88B490E370C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD9D990-49F2-42A0-AAF4-F88B490E370C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD9D990-49F2-42A0-AAF4-F88B490E370C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
