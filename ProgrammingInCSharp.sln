@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeAndValueValidation", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContracts", "DataContracts\DataContracts.csproj", "{4592EA61-837D-4FFD-949B-C9F04E3C79B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnhandledException", "UnhandledException\UnhandledException.csproj", "{267CFD35-1A37-4BEC-9AC7-F0BC5621E3DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{4592EA61-837D-4FFD-949B-C9F04E3C79B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4592EA61-837D-4FFD-949B-C9F04E3C79B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4592EA61-837D-4FFD-949B-C9F04E3C79B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267CFD35-1A37-4BEC-9AC7-F0BC5621E3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267CFD35-1A37-4BEC-9AC7-F0BC5621E3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267CFD35-1A37-4BEC-9AC7-F0BC5621E3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267CFD35-1A37-4BEC-9AC7-F0BC5621E3DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
