@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymmetricEncryption", "Symm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractionWithTheFileSystem", "InteractionWithTheFileSystem\InteractionWithTheFileSystem.csproj", "{66C78B7B-9655-4715-809A-39A0457E6753}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "Serialization\Serialization.csproj", "{2F3D69C8-0A89-4FED-90BD-8843C4AD4808}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{66C78B7B-9655-4715-809A-39A0457E6753}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66C78B7B-9655-4715-809A-39A0457E6753}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66C78B7B-9655-4715-809A-39A0457E6753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3D69C8-0A89-4FED-90BD-8843C4AD4808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3D69C8-0A89-4FED-90BD-8843C4AD4808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3D69C8-0A89-4FED-90BD-8843C4AD4808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3D69C8-0A89-4FED-90BD-8843C4AD4808}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
