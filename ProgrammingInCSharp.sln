@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "Serializat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAndAwait", "AsyncAndAwait\AsyncAndAwait.csproj", "{3BDBC0E9-D988-4F4D-A841-05374D212754}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatIsInstrmentation", "WhatIsInstrmentation\WhatIsInstrmentation.csproj", "{8C9641B3-7937-46A2-BF97-D40E3FA16E2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,8 +143,15 @@ Global
 		{3BDBC0E9-D988-4F4D-A841-05374D212754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BDBC0E9-D988-4F4D-A841-05374D212754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BDBC0E9-D988-4F4D-A841-05374D212754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C9641B3-7937-46A2-BF97-D40E3FA16E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9641B3-7937-46A2-BF97-D40E3FA16E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9641B3-7937-46A2-BF97-D40E3FA16E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9641B3-7937-46A2-BF97-D40E3FA16E2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
 	EndGlobalSection
 EndGlobal

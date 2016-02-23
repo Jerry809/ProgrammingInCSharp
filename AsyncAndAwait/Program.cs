@@ -18,7 +18,7 @@ namespace AsyncAndAwait
             Console.WriteLine("步驟 5 => ThreadID : " + Thread.CurrentThread.ManagedThreadId);
             Console.WriteLine("結果:" + sum.Result); // output : 22
             Console.WriteLine("步驟 6 => ThreadID : " + Thread.CurrentThread.ManagedThreadId);
-
+            
             Console.Read();
         }
 
