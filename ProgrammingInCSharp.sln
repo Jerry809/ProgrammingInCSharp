@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatIsInstrmentation", "Wha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemo", "LinqDemo\LinqDemo.csproj", "{10C78AAB-8600-4608-8AF9-83FFE3F6624C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadAndTask", "ThreadAndTask\ThreadAndTask.csproj", "{2D2408FC-D221-4803-9544-AF82A46FA1B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{10C78AAB-8600-4608-8AF9-83FFE3F6624C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10C78AAB-8600-4608-8AF9-83FFE3F6624C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10C78AAB-8600-4608-8AF9-83FFE3F6624C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2408FC-D221-4803-9544-AF82A46FA1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2408FC-D221-4803-9544-AF82A46FA1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2408FC-D221-4803-9544-AF82A46FA1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2408FC-D221-4803-9544-AF82A46FA1B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
